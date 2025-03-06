@@ -6,7 +6,7 @@ cadena = "Python" + "Rocks"  # Usamos el operador '+' para unir los dos strings
 print(cadena)  # Imprimimos el resultado: 'PythonRocks'
 
 # Ejercicio 2:
-# Reutiliza en un nuevo fichero el código anterior para que la salida sea 'Python Rocks' 
+# Reutiliza en un nuevo fichero el código anterijor para que la salida sea 'Python Rocks' 
 # (con un espacio entre las palabras). Se puede hacer hasta de tres maneras diferentes, 
 # prueba todas las que se te ocurran.
 
